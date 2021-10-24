@@ -1,16 +1,30 @@
+
 *{
-    margin: 0px;
-    border: 0px;
+    border: 0;
     padding: 0px;
+    margin: 0;
     text-decoration: none;
 }
+html{
+    height: 100%;
+}
+
 body{
     background-image: url("/assets/imgens/fundo.jpeg") ;
     background-repeat: no-repeat;
     background-size:cover;
 }
 
-header{
-  
-
+@media(min-height: 890px){
+    @media(max-width: 442px){
+        .rodape{
+            margin-top: 14%;
+        }
+    
+    .conteudo{
+        margin-top: 2%;
+        margin-bottom: 2%;
+        height: 73%; 
+    }
+   }
 }

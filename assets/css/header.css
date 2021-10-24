@@ -1,3 +1,12 @@
-.logicon{
-    margin-right: 50px;
+header{
+    background-color: #8F720A;
+}
+#user{
+    background-color: #555;
+    margin-left: 5px;   
+}
+#logicon{
+    background-color: #8F720A;
+    border: #555 2px solid;
+    padding: 0px 35px;
 }
