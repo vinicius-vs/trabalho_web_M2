@@ -1,0 +1,16 @@
+*{
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+    text-decoration: none;
+}
+body{
+    background-image: url("/assets/imgens/fundo.jpeg") ;
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+header{
+  
+
+}
