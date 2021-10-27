@@ -15,6 +15,11 @@ body{
     background-size:cover;
 }
 
+.card-group{
+    width: 100%;
+}
+
+
 @media(min-height: 890px){
     @media(max-width: 442px){
         .rodape{
