@@ -1,0 +1,12 @@
+#Carrosel{
+    width: 90%;
+    margin: 5%;
+}
+
+#Carrosel h1{
+color: #fff;
+}
+#Carrosel img{
+
+    max-height: 700px;
+}
