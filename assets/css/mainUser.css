@@ -1,0 +1,14 @@
+.dados{
+    border: 1px solid #fff;
+    margin-top: 20px;
+}
+.dados H5{
+    border: solid 1px #fff;
+    margin: 2px;
+    width: 200px;
+    text-align: center;
+}
+.bt-salvar{
+    margin-top: 25px;
+    text-align: center;
+}
