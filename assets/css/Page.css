@@ -10,7 +10,7 @@ html{
 }
 
 body{
-    background-image: url("/assets/imgens/fundo.jpeg") ;
+    background-image: url("../imgens/fundo.jpeg") ;
     background-size:cover;
 }
 
