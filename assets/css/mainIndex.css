@@ -2,7 +2,9 @@
     width: 90%;
     margin: 5%;
 }
-
+main{
+    color: #000;
+}
 #Carrosel h1{
 color: #fff;
 }

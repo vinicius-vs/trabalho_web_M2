@@ -13,6 +13,7 @@ body{margin-top:20px;}
     list-style: none;
     text-align: left;
     max-width: 40%;
+    color: #000;
 }
 
 @media (max-width: 767px) {
