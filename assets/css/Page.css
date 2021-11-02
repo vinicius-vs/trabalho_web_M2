@@ -1,10 +1,13 @@
-
+@font-face {
+    font-family: gagalin;
+    src: url("../Font/Gagalin/Gagalin/Commercial/TTF/Gagalin-Regular.ttf");
+ }
 *{
     border: 0;
     padding: 0px;
     margin: 0;
     text-decoration: none;
-    color: #000;
+    font-family: gagalin;
 }
 html{
     height: 100%;
